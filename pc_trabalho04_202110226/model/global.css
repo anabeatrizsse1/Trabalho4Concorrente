@@ -1,0 +1,62 @@
+.botao {
+  -fx-cursor: hand;
+}
+
+.botao:hover {
+  -fx-opacity: 0.80;
+
+}
+
+.reiniciar {
+  -fx-cursor: hand;
+}
+
+.reiniciar:hover {
+  -fx-opacity: 0.80;
+
+}
+
+.f0 {
+  -fx-cursor: hand;
+}
+
+.f0:hover {
+  -fx-opacity: 0.80;
+
+}
+
+.f1 {
+  -fx-cursor: hand;
+}
+
+.f1:hover {
+  -fx-opacity: 0.80;
+
+}
+
+.f2 {
+  -fx-cursor: hand;
+}
+
+.f2:hover {
+  -fx-opacity: 0.80;
+
+}
+
+.f3 {
+  -fx-cursor: hand;
+}
+
+.f3:hover {
+  -fx-opacity: 0.80;
+
+}
+
+.f4 {
+  -fx-cursor: hand;
+}
+
+.f4:hover {
+  -fx-opacity: 0.80;
+
+}
